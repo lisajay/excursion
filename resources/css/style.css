@@ -24,7 +24,7 @@ p {
   color: gray;
 }
 
-p a {
+.link {
   font-size: 16px;
   color: Aquamarine;
 }
